@@ -4,7 +4,7 @@ Metodo de ordenamiento de seleccion.
 
 ## Clase
 
-Estrcutura de datos
+Estrcutura de datos.
 
 ## Fecha
 
